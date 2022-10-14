@@ -6,3 +6,6 @@ Password generator. Prompts user to enter how long they want their password, bet
 
 Deployed Link:
 https://lsenn404.github.io/Password-Generator/
+
+Git Repository:
+https://github.com/Lsenn404/Password-Generator
